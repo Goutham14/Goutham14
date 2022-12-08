@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Goutham14
 - 👀 I’m interested in ...Data Science
-- 🌱 I’m currently learning ... R and Python
-- 💞️ I’m looking to collaborate on ... R
+- 🌱 I’m currently learning ... Python, ML packages
+- 💞️ I’m looking to collaborate on ... machine learning models
 - 📫 How to reach me ...vangapandu.goutham0914@gmail.com
 
 <!---
