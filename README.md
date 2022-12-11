@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Goutham14
-- 👀 I’m interested in ...Data Science
-- 🌱 I’m currently learning ... Python, ML packages
+- 👀 A geek in Data Science
+- 🌱 I’m currently learning ... Python, ML boost models
 - 💞️ I’m looking to collaborate on ... machine learning models
 - 📫 How to reach me ...vangapandu.goutham0914@gmail.com
 
